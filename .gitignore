@@ -1,4 +1,6 @@
 .vscode/
 .vs/
 *.exe
+Basic Sintaxe/output/*
 output/
+OOP/output/
